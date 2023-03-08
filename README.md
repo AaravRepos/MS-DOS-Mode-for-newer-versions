@@ -5,8 +5,9 @@ It enables the BCPE (Bootscreen Command Prompt Exploit.) The latest release (Pre
 # How to get files
 Click Code > Download ZIP.
 OR the more known method. Check out the releases - https://github.com/AaravRepos/MS-DOS-Mode-for-newer-versions/releases/
-For the Code > Download ZIP version, I made a cmd file that downloads WInXEditor. 
-
+For the Code > Download ZIP version, I made a cmd file that downloads WinXEditor. 
+For instructions go to 
+https://github.com/AaravRepos/MS-DOS-Mode-for-newer-versions/releases and find the latest
 # msdos.bat
 Starts MS-DOS Mode
 
