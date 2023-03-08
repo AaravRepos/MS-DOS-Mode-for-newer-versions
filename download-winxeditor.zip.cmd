@@ -1,3 +1,4 @@
+@echo off
 echo You need powershell installed.
 pause
 echo Okay. Starting download.
