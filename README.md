@@ -15,5 +15,8 @@ Disables the BCPE and gets you back into Windows
 ## reboot.bat
 Reboots your system.
 
-## WinXEditor.zip
+## WinXEditor.zip (Releases only)
 Lets you add easy acess to MS-DOS Mode.
+
+## download-winxeditor.zip.cmd (Code > Download ZIP only)
+Downloads WinXEditor.zip from the online github page. Might be edited to download a newer version. 
